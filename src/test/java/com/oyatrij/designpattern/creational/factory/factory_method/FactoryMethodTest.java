@@ -1,4 +1,4 @@
-package com.oyatrij.designpattern.creational.factory_method;
+package com.oyatrij.designpattern.creational.factory.factory_method;
 
 import com.oyatrij.designpattern.creational.factory_method.delivery.BikeDelivery;
 import com.oyatrij.designpattern.creational.factory_method.delivery.BikeDeliveryFactory;
