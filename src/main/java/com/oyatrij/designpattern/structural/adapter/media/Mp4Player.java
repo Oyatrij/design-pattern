@@ -1,4 +1,4 @@
-package com.oyatrij.designpattern.structural.adapter;
+package com.oyatrij.designpattern.structural.adapter.media;
 
 public class Mp4Player implements AdvancedMediaPlayer {
     @Override

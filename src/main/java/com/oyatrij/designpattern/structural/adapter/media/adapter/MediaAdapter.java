@@ -1,9 +1,9 @@
-package com.oyatrij.designpattern.structural.adapter.adapter;
+package com.oyatrij.designpattern.structural.adapter.media.adapter;
 
-import com.oyatrij.designpattern.structural.adapter.AdvancedMediaPlayer;
-import com.oyatrij.designpattern.structural.adapter.MediaPlayer;
-import com.oyatrij.designpattern.structural.adapter.MkVPlayer;
-import com.oyatrij.designpattern.structural.adapter.Mp4Player;
+import com.oyatrij.designpattern.structural.adapter.media.AdvancedMediaPlayer;
+import com.oyatrij.designpattern.structural.adapter.media.MediaPlayer;
+import com.oyatrij.designpattern.structural.adapter.media.MkVPlayer;
+import com.oyatrij.designpattern.structural.adapter.media.Mp4Player;
 
 //어댑터 클래스
 public class MediaAdapter implements MediaPlayer {
